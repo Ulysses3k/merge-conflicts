@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# 12 labours of Hercules
+- project: 12 Labours of Hercules
+  role: Hercules
+  duration: 12 years
+  url: "https://en.wikipedia.org/wiki/Labours_of_Hercules"
+  description: The Twelve Labours of Heracles or Hercules are a series of episodes concerning a penance carried out by Heracles, the greatest of the Greek heroes, whose name was later romanised as Hercules. They were accomplished at the service of King Eurystheus...
